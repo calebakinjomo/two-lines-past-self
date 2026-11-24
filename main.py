@@ -2,7 +2,8 @@
 """Two Lines to Your Past Self -- make.fun bounty entry.
 
 Prints two lines addressed to my past self and writes them to
-/output/entry.txt for the harness.
+/output/entry.txt for the harness. The two lines total 211 characters,
+within the 1-280 character gate for the entry.
 """
 
 import os
